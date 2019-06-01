@@ -2,10 +2,15 @@
 
 ## 文件内容介绍：
 Bootstrap(Build_17615.1).exe 导引程序，用于协调多进程
+
 Client Release 客户端的Release版本程序，但是似乎需要一些动态库
+
 实习文档：系统的各个文档，每个功能的流程图在详细设计中
+
 总体流程及模块设计在概要设计说明书中
+
 OS_Project:客户端控制台窗口项目，使用VS2015开发
+
 Bootstrapper Project：导引程序项目，使用VS2015开发
 
 请先启动Bootstrap后再开启Client，并等待Client全部关闭后再推出Bootstrap程序
